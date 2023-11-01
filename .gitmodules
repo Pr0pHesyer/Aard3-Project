@@ -1,0 +1,9 @@
+[submodule "aard3-android-app"]
+	path = aard3-android-app
+	url = https://github.com/Pr0pHesyer/aard3-android-app.git
+[submodule "slobj"]
+	path = slobj
+	url = https://github.com/Pr0pHesyer/slobj.git
+[submodule "slobber"]
+	path = slobber
+	url = https://github.com/Pr0pHesyer/slobber.git
